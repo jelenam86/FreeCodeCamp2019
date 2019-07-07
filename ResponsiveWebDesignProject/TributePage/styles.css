@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+  background-color: #dcdcdc;
+}
+
+#img-div {
+  background-color: #d3d3d3;
+}
+
+h1 {
+  font-family: Sans-serif;
+  font-size: 50px;
+}
+
+#image {
+  max-width: 600px;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+#img-caption {
+  font-family: Helvetica;
+}
+
+#tribute-info {
+  display: inline-block;
+  text-align: justify;
+}
+
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+
+li {
+  margin: 16px 0;
+}
