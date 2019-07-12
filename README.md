@@ -8,7 +8,7 @@ My public portfolio on FreeCodeCamp: https://www.freecodecamp.org/jelenam86
 
 1. Responsive Web Design Projects
     1. Build a Tribute Page, https://codepen.io/jelenam86/full/QXZpvM
-    2. Build a Survey Form
+    2. Build a Survey Form, https://codepen.io/jelenam86/full/QXzgpo
     3. Build a Product Landing Page
     4. Build a Technical Documentation Page
     5. Build a Personal Portfolio Webpage
