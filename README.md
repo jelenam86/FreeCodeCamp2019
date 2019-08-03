@@ -1,15 +1,15 @@
 # FreeCodeCamp2019
-Projects from <a href="https://www.freecodecamp.org/" target="_blank">FreeCodeCamp</a>
-<br><strong>Note:</strong> work in progress... Also, all links will open in new tab.
+Projects from [FreeCodeCamp](https://www.freecodecamp.org/)
+<br><strong>Note:</strong> work in progress...
 
 
-My public portfolio on FreeCodeCamp: https://www.freecodecamp.org/jelenam86
+My public portfolio on FreeCodeCamp: [jelenam86](https://www.freecodecamp.org/jelenam86)
 
 
 1. Responsive Web Design Projects
     1. Build a [Tribute Page](https://codepen.io/jelenam86/full/QXZpvM)
-    2. Build a Survey Form, https://codepen.io/jelenam86/full/QXzgpo
-    3. Build a Product Landing Page
+    2. Build a [Survey Form](https://codepen.io/jelenam86/full/QXzgpo)
+    3. Build a [Product Landing Page](https://codepen.io/jelenam86/full/ewPvvK)
     4. Build a Technical Documentation Page
     5. Build a Personal Portfolio Webpage
 2. JavaScript Algorithms and Data Structures Projects
