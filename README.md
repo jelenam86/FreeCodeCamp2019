@@ -1,9 +1,9 @@
 # FreeCodeCamp2019
-Projects from [FreeCodeCamp](https://www.freecodecamp.org/)
+Projects from [freeCodeCamp](https://www.freecodecamp.org/)
 <br><strong>Note:</strong> work in progress...
 
 
-My public portfolio on FreeCodeCamp: [jelenam86](https://www.freecodecamp.org/jelenam86)
+My public portfolio on freeCodeCamp: [jelenam86](https://www.freecodecamp.org/jelenam86)
 
 
 1. Responsive Web Design Projects
