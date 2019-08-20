@@ -10,8 +10,8 @@ My public portfolio on freeCodeCamp: [jelenam86](https://www.freecodecamp.org/je
     1. Build a [Tribute Page](https://codepen.io/jelenam86/full/QXZpvM)
     2. Build a [Survey Form](https://codepen.io/jelenam86/full/QXzgpo)
     3. Build a [Product Landing Page](https://codepen.io/jelenam86/full/ewPvvK)
-    4. Build a Technical Documentation Page
-    5. Build a Personal Portfolio Webpage
+    4. Build a [Technical Documentation Page](https://codepen.io/jelenam86/full/qerJgO)
+    5. Build a [Personal Portfolio Webpage](https://codepen.io/jelenam86/full/RwbGOxM)
 2. JavaScript Algorithms and Data Structures Projects
     1. Palindrome Checker
     2. Roman Numeral Converter
